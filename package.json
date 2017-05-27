@@ -5,7 +5,7 @@
   "author": "ihaonanGY",
   "private": true,
   "scripts": {
-    "dev": "node build/dev-server.js",
+    "dev": "node build/dev-server.js --colors",
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
     "lint": "eslint --ext .js,.vue src"
@@ -15,6 +15,8 @@
     "vue-router": "^2.3.1"
   },
   "devDependencies": {
+    "stylus-loader": "^2.1.1",
+    "stylus": "^0.54.5",
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.22.1",
     "babel-eslint": "^7.1.1",
