@@ -6,7 +6,7 @@
 </template>
 
 <script>
-  import tankBattles from './components/tankBattles.vue'
+  import tankBattles from './components/list.vue'
   export default {
     components: {
       tankBattles
