@@ -1,21 +1,20 @@
-# tankbattles
+![](https://github.com/lihaonanGY/tankBattles/readme_1.png)
+# TankBattle
 
-> ��利使用vue开发一个纯前段坦克大战
+----------
 
-## Build Setup
+### 童年的记忆————黄卡机里的坦克大战
 
-``` bash
-# install dependencies
-npm install
+还记得儿时的夏天，冰凉西瓜旁的小霸王游戏机吗？
+隐约记得卡带上写着64合1，选游戏的时候是英文还是日文现在也记不得了，反正就是看不懂。
+但第五个游戏是坦克大战，这个依然印象深刻。
+和父亲一同打过一关又一关！
 
-# serve with hot reload at localhost:8080
-npm run dev
+###游戏图片
+![](https://github.com/lihaonanGY/tankBattles/readme_2.png)
+###操作说明
+* 可选择单打双打
+* 1P：`上下左右`控制移动，`space`射击！
+* 2P：`方向键`控制移动，`enter`射击！
+* `n`跳至下一关，`p`跳至上一关。
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
